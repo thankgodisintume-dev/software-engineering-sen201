@@ -1,0 +1,1 @@
+Software engineering is the systematic application of engineering principles to the design, development, testing, and maintenance of software systems. It ensures software is reliable, efficient, secure, and maintable.
